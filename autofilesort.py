@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Path of the sorting folder
-sorting_folder = r"C:\Users\Lenovo\Downloads"
+sorting_folder = r"Path\To\Your\Folder"
 os.chdir(sorting_folder)
 path = os.getcwd()
 
